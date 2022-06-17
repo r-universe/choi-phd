@@ -1,0 +1,14 @@
+[
+  {
+    "package": "maat",
+    "oncran": true
+  },
+  {
+    "package": "PROsetta",
+    "oncran": true
+  },
+  {
+    "package": "TestDesign",
+    "oncran": true
+  }
+]
