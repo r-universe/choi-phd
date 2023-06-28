@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "maat"]
 	path = maat
 	url = https://github.com/choi-phd/maat
-	shallow = true
-	registered = true
 [submodule "MAT"]
 	path = MAT
 	url = https://github.com/cran/MAT
-	shallow = true
-	registered = true
 [submodule "PROsetta"]
 	path = PROsetta
 	url = https://github.com/choi-phd/prosetta
-	shallow = true
-	registered = true
 [submodule "TestDesign"]
 	path = TestDesign
 	url = https://github.com/choi-phd/testdesign
-	shallow = true
-	registered = true
