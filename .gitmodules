@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "maat"]
-	path = maat
-	url = https://github.com/choi-phd/maat
 [submodule "MAT"]
 	path = MAT
 	url = https://github.com/cran/MAT
@@ -14,3 +11,6 @@
 [submodule "TestDesign"]
 	path = TestDesign
 	url = https://github.com/choi-phd/testdesign
+[submodule "maat"]
+	path = maat
+	url = https://github.com/choi-phd/maat
