@@ -11,6 +11,9 @@
 [submodule "TestDesign"]
 	path = TestDesign
 	url = https://github.com/choi-phd/testdesign
+[submodule "lordif"]
+	path = lordif
+	url = https://github.com/choi-phd/lordif
 [submodule "maat"]
 	path = maat
 	url = https://github.com/choi-phd/maat
