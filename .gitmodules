@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "MAT"]
 	path = MAT
-	url = https://github.com/cran/MAT
+	url = https://github.com/choi-phd/mat
 [submodule "PROsetta"]
 	path = PROsetta
 	url = https://github.com/choi-phd/prosetta
